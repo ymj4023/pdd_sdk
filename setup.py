@@ -7,15 +7,15 @@ with open("README.md", "r", encoding='utf-8') as fh:
     long_description = fh.read()
 
 setup(
-    name="taobao_sdk_python3",
-    version="1.0.2",
+    name="pdd_sdk",
+    version="1.0.1",
     author="ymj4023",
     author_email="xuerobec@foxmail.com",
-    description="taobao_sdk_python3",
+    description="pdd_sdk",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/ymj4023/taobao_sdk_python3",
+    url="https://github.com/ymj4023/pdd_sdk",
     packages=find_packages(),
     install_requires=[
         ],
