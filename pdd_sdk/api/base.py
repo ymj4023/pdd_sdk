@@ -191,9 +191,9 @@ class RestApi(object):
         self.__domain = domain
         self.__port = port
         self.__httpmethod = "POST"
-        if (ddk.getDefaultAppInfo()):
-            self.__app_key = ddk.getDefaultAppInfo().appkey
-            self.__secret = ddk.getDefaultAppInfo().secret
+        if (pdd_sdk.getDefaultAppInfo()):
+            self.__app_key = pdd_sdk.getDefaultAppInfo().appkey
+            self.__secret = pdd_sdk.getDefaultAppInfo().secret
 
     def get_request_header(self):
         return {
