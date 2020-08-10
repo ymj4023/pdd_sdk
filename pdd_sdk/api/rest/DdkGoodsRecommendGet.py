@@ -10,7 +10,7 @@ class DdkGoodsRecommendGet(RestApi):
         # 每个用户仅且对应一个标识，必填； sid 上下文信息标识，例如sessionId等，非必填。该json字符串中也可以加入其他自定义的key
         self.custom_parameters = None
         self.limit = 400    # 请求数量；默认值 ： 400
-        self.list_id = "0"  #  翻页时建议填写前页返回的list_id值
+        self.list_id = None  #  翻页时建议填写前页返回的list_id值
         self.offset = 0 # 从多少位置开始请求；默认值 ： 0，offset需是limit的整数倍，仅支持整页翻页
         self.pid = None    # 推广位id
 
