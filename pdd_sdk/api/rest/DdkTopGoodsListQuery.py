@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@Author: YuMinJie
-@Date: 2020-08-07 11:45:54
-@LastEditTime: 2020-08-10 13:50:28
-@LastEditors: YuMinJie
-@Description: 
-"""
-# -*- coding: utf-8 -*-
 
 """
 DdkTopGoodsListQuery.py:
