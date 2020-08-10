@@ -8,7 +8,7 @@ with open("README.md", "r", encoding='utf-8') as fh:
 
 setup(
     name="pdd_sdk",
-    version="1.0.5",
+    version="1.0.6",
     author="ymj4023",
     author_email="xuerobec@foxmail.com",
     description="pdd_sdk",

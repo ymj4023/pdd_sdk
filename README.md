@@ -6,3 +6,8 @@
 增加接口字段细节
 
 :hot_pepper:pypi安装:pip install pdd_sdk
+在setup.py 文件中依次输入如下代码上传pypi：
+pip install twine
+python setup.py sdist
+python setup.py install
+twine upload dist/*
