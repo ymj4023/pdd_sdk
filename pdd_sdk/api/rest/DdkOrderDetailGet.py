@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-10 15:12
-# @Author  : play4fun
-# @File    : DdkOrderDetailGet.py
-# @Software: PyCharm
+
+
 
 """
 DdkOrderDetailGet.py:

@@ -1,15 +1,10 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-09 11:47
-# @Author  : play4fun
-# @File    : __init__.py.py
-# @Software: PyCharm
 
 """
 __init__.py.py:
 """
 
-__version__ = '19.1.14.18'
-__author__ = 'play4fun <play4fun@foxmail.com>'
+__version__ = '1.0.8'
+__author__ = 'ymj4023'
 
 from pdd_sdk.api.base import sign
 

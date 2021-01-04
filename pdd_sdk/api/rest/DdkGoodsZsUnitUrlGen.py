@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-14 17:36
-# @Author  : play4fun
-# @File    : DdkGoodsZsUnitUrlGen.py
-# @Software: PyCharm
+
 
 """
 DdkGoodsZsUnitUrlGen.py:

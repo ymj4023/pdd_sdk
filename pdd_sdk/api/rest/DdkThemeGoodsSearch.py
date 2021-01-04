@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-18 17:09
-# @Author  : play4fun
-# @File    : DdkThemeGoodsSearch.py
-# @Software: PyCharm
+
+
 
 """
 DdkThemeGoodsSearch.py:

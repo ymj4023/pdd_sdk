@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-18 16:54
-# @Author  : play4fun
-# @File    : DdkMallGoodsListGet.py
-# @Software: PyCharm
 
 """
 DdkMallGoodsListGet.py:

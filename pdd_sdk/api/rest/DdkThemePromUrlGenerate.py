@@ -24,7 +24,7 @@ class DdkThemePromUrlGenerate(RestApi):
         self.we_app_web_view_short_url = None  # 唤起微信app推广短链接
         self.we_app_web_wiew_url = None  # 唤起微信app推广链接
         # ?
-        # self.generate_we_app: bool = None  # 是否生成小程序推广
+        self.generate_we_app: bool = None  # 是否生成小程序推广
 
     def getapiname(self):
         return 'pdd.ddk.theme.prom.url.generate'

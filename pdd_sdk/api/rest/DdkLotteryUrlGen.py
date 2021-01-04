@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-18 14:42
-# @Author  : play4fun
-# @File    : DdkLotteryUrlGen.py
-# @Software: PyCharm
+
 
 """
 DdkLotteryUrlGen.py:

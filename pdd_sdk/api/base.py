@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-09 11:50
-# @Author  : play4fun
-# @File    : base.py
-# @Software: PyCharm
-
 """
 base.py:
 """
@@ -24,7 +18,7 @@ import mimetypes
 定义一些系统变量
 '''
 
-SYSTEM_GENERATE_VERSION = "ddk-sdk-python-20181209"
+SYSTEM_GENERATE_VERSION = "ddk-sdk-python-20210104"
 
 P_APPKEY = "client_id"
 P_API = "type"

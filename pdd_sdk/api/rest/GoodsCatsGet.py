@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-18 16:03
-# @Author  : play4fun
-# @File    : GoodsCatsGet.py
-# @Software: PyCharm
+
 
 """
 GoodsCatsGet.py:

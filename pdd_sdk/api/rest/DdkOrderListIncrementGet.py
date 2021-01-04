@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-09 14:56
-# @Author  : play4fun
-# @File    : DdkOrderListIncrementGet.py
-# @Software: PyCharm
+
+
 
 """
 DdkOrderListIncrementGet.py:

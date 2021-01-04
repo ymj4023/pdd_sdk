@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-14 17:55
-# @Author  : play4fun
-# @File    : DdkWeappQrcodeUrlGen.py
-# @Software: PyCharm
+
+
 
 """
 DdkWeappQrcodeUrlGen.py:

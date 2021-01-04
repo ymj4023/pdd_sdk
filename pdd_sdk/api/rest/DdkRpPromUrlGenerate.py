@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018-12-10 15:40
-# @Author  : play4fun
-# @File    : DdkRpPromUrlGenerate.py
-# @Software: PyCharm
+
+
 
 """
 DdkRpPromUrlGenerate.py:
