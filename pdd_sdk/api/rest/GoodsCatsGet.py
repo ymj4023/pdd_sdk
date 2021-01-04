@@ -1,9 +1,9 @@
-
+# -*- coding: utf-8 -*-
 
 """
 GoodsCatsGet.py:
-http://open.pinduoduo.com/#/apidocument/port?id=17
-
+https://open.pinduoduo.com/application/document/api?id=pdd.goods.cats.get
+商品标准类目接口
 获取拼多多标准商品类目信息（请使用pdd.goods.authorization.cats接口获取商家可发布类目）
 """
 

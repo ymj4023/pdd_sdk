@@ -1,8 +1,9 @@
-
-
+# -*- coding: utf-8 -*-
 
 """
 DdkThemeGoodsSearch.py:
+https://open.pinduoduo.com/application/document/api?id=pdd.ddk.theme.goods.search
+多多进宝主题商品查询
 """
 
 from pdd_sdk.api.base import RestApi

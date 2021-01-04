@@ -1,13 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2018-12-18 17:05
-# @Author  : play4fun
-# @File    : DdkThemeListGet.py
-# @Software: PyCharm
 
 """
 DdkThemeListGet.py:
-http://open.pinduoduo.com/#/apidocument/port?id=179
-
+https://open.pinduoduo.com/application/document/api?id=pdd.ddk.theme.list.get
 查询多多进宝主题列表
 """
 
@@ -18,8 +13,8 @@ class DdkThemeListGet(RestApi):
     def __init__(self, domain='gw-api.pinduoduo.com', port=80):
         RestApi.__init__(self, domain, port)
         #
-        self.page_size = None  #
-        self.page = None  #
+        self.page = None  # 返回的页码
+        self.page_size = None  # 返回的一页数据数量
 
     def getapiname(self):
         return 'pdd.ddk.theme.list.get'
